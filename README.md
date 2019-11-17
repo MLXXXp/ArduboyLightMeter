@@ -12,5 +12,5 @@ Some calibration is supported, to adjust the scaling. Minimum and maximum raw re
 
 ## Screenshots
 
-![Main Screen](images/main.png) ![Calibration Screen](images/cal.png)
+![Main Screen](images/main.png)   ![Calibration Screen](images/cal.png)
 
